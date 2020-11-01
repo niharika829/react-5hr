@@ -1,0 +1,22 @@
+.head {
+  background-color: powderblue;
+}
+ .portfolio-container {
+  background-color: #BF00FF;
+  min-height: 100vh;
+  display: flex;
+} 
+.intro{
+  color:white;
+  margin:auto;
+  font-size:50px;
+  font-weight:bolder;
+  font-variant: small-caps;
+  font-family: "papyrus", fantasy;
+}
+.icon{
+   font-size:50px;
+  width:5%;
+   margin:auto;
+   
+}
